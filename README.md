@@ -57,6 +57,5 @@ Modular Terraform architecture implementing:
 ## 📫 Connect
 
 * LinkedIn: linkedin.com/in/krishnashukla3002
-* GitHub: github.com/BrainTeaser1
 
 > Building systems, not just scripts.
